@@ -108,11 +108,14 @@ A compound unique index ensures one vote per student per poll at the database le
 cd backend
 npm install
 npm run dev
+```
 
 ### Frontend
+```bash
 cd frontend
 npm install
 npm run dev
+```
 
 ---
 
