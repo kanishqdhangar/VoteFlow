@@ -124,9 +124,9 @@ npm run dev
 - No authentication (intentional design choice)
 - Student identity is browser-based using localStorage
 - Clearing browser storage allows re-voting
-These tradeoffs keep the system lightweight while focusing on real-time correctness and system design.
+- These tradeoffs keep the system lightweight while focusing on real-time correctness and system design.
 
 ---
 
 ## Author
-- Kanishq Dhangar
+Built by  Kanishq Dhangar
